@@ -1,0 +1,14 @@
+C:\Users\Pucheros\source\repos\CodeFirst\DB\bin\Debug\net8.0\DB.deps.json
+C:\Users\Pucheros\source\repos\CodeFirst\DB\bin\Debug\net8.0\DB.runtimeconfig.json
+C:\Users\Pucheros\source\repos\CodeFirst\DB\bin\Debug\net8.0\DB.dll
+C:\Users\Pucheros\source\repos\CodeFirst\DB\bin\Debug\net8.0\DB.pdb
+C:\Users\Pucheros\source\repos\CodeFirst\DB\obj\Debug\net8.0\DB.csproj.AssemblyReference.cache
+C:\Users\Pucheros\source\repos\CodeFirst\DB\obj\Debug\net8.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pucheros\source\repos\CodeFirst\DB\obj\Debug\net8.0\DB.AssemblyInfoInputs.cache
+C:\Users\Pucheros\source\repos\CodeFirst\DB\obj\Debug\net8.0\DB.AssemblyInfo.cs
+C:\Users\Pucheros\source\repos\CodeFirst\DB\obj\Debug\net8.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\Pucheros\source\repos\CodeFirst\DB\obj\Debug\net8.0\DB.dll
+C:\Users\Pucheros\source\repos\CodeFirst\DB\obj\Debug\net8.0\refint\DB.dll
+C:\Users\Pucheros\source\repos\CodeFirst\DB\obj\Debug\net8.0\DB.pdb
+C:\Users\Pucheros\source\repos\CodeFirst\DB\obj\Debug\net8.0\DB.genruntimeconfig.cache
+C:\Users\Pucheros\source\repos\CodeFirst\DB\obj\Debug\net8.0\ref\DB.dll
